@@ -1,0 +1,4 @@
+framework module ttttt {
+  header "ttttt-Swift.h"
+  requires objc
+}

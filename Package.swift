@@ -18,8 +18,7 @@ let package = Package(
   targets: [
 	.binaryTarget(
       name: "ttttt",
-      url: "https://github.com/18734791527/SwiftPackageManagerTest/blob/Releases/ttttt/download/1.0.0/ttttt-1.0.0.zip",
-      checksum: "9addae05c6068079ff96bd312b42685a62de483a8594ca4ab62accbd02627fe2"
+      path: "./ttttt.xcframework"
     ),
   ]
 )
